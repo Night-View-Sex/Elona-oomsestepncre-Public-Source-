@@ -18,7 +18,7 @@ Note: This may take some inspiration from certain Plus mechanics.
 ## About the Repo
 Sorry, the files are compressed. I'm in mobile and can't upload in masse.
 
-- NVS
+-NVS
 
 ## Installation
 
