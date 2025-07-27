@@ -15,6 +15,11 @@ Eggplants! I want to eat eggplants! Words of Aoi Nasuko.
 We aim to add more English compatibility with NC, and more roleplaying and customization features.  
 Note: This may take some inspiration from certain Plus mechanics.
 
+## About the Repo
+Sorry, the files are compressed. I'm in mobile and can't upload in masse.
+
+- NVS
+
 ## Installation
 
 1. Refer to this guide from the [Omake Family Variant Wiki](https://web.archive.org/web/20240623183744/http://elona-omakefamily-wiki.com/?%E5%B0%8E%E5%85%A5%E6%96%B9%E6%B3%95) for steps on how to install OOMSEST, or;
